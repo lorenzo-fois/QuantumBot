@@ -4,6 +4,10 @@ QuantumBot è un progetto desktop Python per macOS dedicato allo studio, al port
 
 L'app include una dashboard Tkinter e un engine in background separato. La dashboard mostra dati, stato del bot, registro operazioni simulate e grafici Matplotlib. I dati di mercato vengono letti da Binance tramite `ccxt`, con fallback simulato quando rete o dipendenze non sono disponibili.
 
+A newer modular version of this project is available here:
+https://github.com/lorenzo-fois/QuantumBot-v2
+
+
 ## Avvertenza importante
 
 QuantumBot lavora esclusivamente in trading simulato.
